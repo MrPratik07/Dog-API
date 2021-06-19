@@ -1,0 +1,40 @@
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.input-button-container{
+    display: flex;
+    justify-content: center;
+}
+
+#input-container{
+    margin-right: 5px;
+    padding: 10px;
+    width: 5cm;
+}
+
+#search-button{
+    Border-radius: 10px;
+    border: none;
+    padding: 10px;
+    Width: 2cm;
+}
+
+.img-container{
+    display:flex;
+    width: 25rem;
+    height:25rem;
+    border: 2px solid;
+    margin-top: 40px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
